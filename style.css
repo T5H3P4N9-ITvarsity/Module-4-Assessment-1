@@ -12,7 +12,7 @@ body{
 }
 
 #right-column img{
-    width:230px;
+    width:330px;
     margin-left:140px;
     margin-top:100px;
 
@@ -24,4 +24,100 @@ img#logo{
     bottom:20px;
     right:10px;
 
+}
+
+#new{
+    float:right;
+}
+
+#new img{
+    width:120px;
+}
+
+#new_one{
+    float:right;
+}
+
+#new_one img{
+    width:80px;
+}
+
+#new_two{
+    float:right;
+}
+
+#new_two img{
+    width:230px;
+}
+
+
+
+#new_three img{
+    width:120px;
+}
+
+
+#new_four img{
+    width:140px;
+}
+
+
+#new_four_one img{
+    width:180px;
+}
+
+
+
+#new_five img{
+    width:55px;
+}
+
+#new_six{
+    float:right;
+}
+
+#new_six img{
+    width:160px;
+}
+
+
+#new_seven img{
+    width:160px;
+}
+
+#new_eight {
+    float:right;
+}
+
+#new_eight img{
+    width:60px;
+}
+
+
+#eyes img{
+    width:80px;
+}
+
+#hair {
+    float:right;
+}
+
+#hair img{
+    width:170px;
+}
+
+#shoes {
+    float:right;
+}
+
+#shoes img{
+    width:70px;
+}
+
+#shoe {
+    float:right;
+}
+
+#shoe img{
+    width:50px;
 }
